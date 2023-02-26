@@ -1,5 +1,7 @@
-<h1 align = "center">Hi there 👋</h1>
+<div align="center"><img src="https://avatars.githubusercontent.com/u/112453991" width="192" height="192"></div>
+<h1 align = "center" >windXF</h1>
 
+# Hi there 👋
 - 😄 I'm a senior high school student who is interested in creating things for minecraft. 
 - 📚 I spend a lot of time studying because I prepare for the national college entrance exam. 
 - ⌛ I will not spend much time on updating my mods. Thank you for your patience.
