@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align = "center">Hi there 👋</h1>
+
+- 😄 I'm a senior high school student who is interested in creating things for minecraft. 
+- 📚 I spend a lot of time studying because I prepare for the national college entrance exam. 
+- ⌛ I will not spend much time on updating my mods. Thank you for your patience.
 
 <!--
 **wind-XF/wind-XF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
