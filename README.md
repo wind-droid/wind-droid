@@ -6,6 +6,10 @@
 - 📚 I spend a lot of time studying because I prepare for the national college entrance exam. 
 - ⌛ I will not spend much time on updating my mods. Thank you for your patience.
 
+<div href="https://space.bilibili.com/364402937">
+<img src="https://github.com/wind-XF/wind-XF/blob/main/bilibili.png" width="257" height="54">
+</div>
+
 <!--
 **wind-XF/wind-XF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
