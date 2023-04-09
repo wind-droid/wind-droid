@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/wind-XF/wind-XF/blob/main/head-banner.png" width="50%"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/wind-XF/wind-XF/main/head-banner.png" width="50%"></div>
 
 # Hi there 👋
 - 😄 I'm a senior high school student who is interested in creating things for minecraft. 
@@ -6,7 +6,10 @@
 - ⏳ I will not spend much time on updating my mods because I prepare for the national college entrance exam.
 
 <a href="https://space.bilibili.com/364402937">
-<img src="https://github.com/wind-XF/wind-XF/blob/main/bilibili.png" width="25%">
+<img src="https://raw.githubusercontent.com/wind-XF/wind-XF/main/bilibili.png" width="25%" alt="My BiliBili Channel">
+</a>
+<a href="https://modrinth.com/user/wind-XF">
+<img src="https://raw.githubusercontent.com/wind-XF/wind-XF/main/modrinth.png" width="25%" alt="My Modrinth Page">
 </a>
 
 <p>
