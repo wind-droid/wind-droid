@@ -6,19 +6,9 @@
 - 😄 I'm a NJUPT undergraduate.
 - 💡 I'm currently learning game development & shader .
 
-<div style="display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, auto);">
-    <div>
-        <img src="/metrics.base.svg" alt="Metrics">
-    </div>
-    <div>
-        <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-    </div>
-    <div>
-        <img src="/metrics.plugin.stargazers.chartist.svg" alt="Metrics">
-    </div>
-    <div">
-        <img src="/metrics.plugin.languages.svg" alt="Metrics">
-    </div>
+<div>
+    <img src="/metrics.base.svg" alt="Metrics">
+    <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+    <img src="/metrics.plugin.stargazers.chartist.svg" alt="Metrics">
+    <img src="/metrics.plugin.languages.svg" alt="Metrics">
 </div>
